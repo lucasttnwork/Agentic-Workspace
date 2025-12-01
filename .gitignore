@@ -1,0 +1,11 @@
+venv/
+.tmp/
+.env
+credentials.json
+token.json
+*.csv
+token.json
+__pycache__/
+*.pyc
+.DS_Store
+venv/

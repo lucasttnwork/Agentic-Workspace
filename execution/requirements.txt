@@ -7,3 +7,4 @@ gspread
 python-dotenv
 playwright
 beautifulsoup4
+requests

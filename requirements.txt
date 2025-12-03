@@ -8,3 +8,6 @@ python-dotenv
 apify-client
 gspread
 google-auth
+openai
+google-generativeai
+opencv-python
